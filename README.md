@@ -1,4 +1,5 @@
 # RecursiceAddition-Java-Code
+![How it works (2)](https://github.com/ARIBFIB/ResursiceAddition-Java-Code/assets/125716994/3ed8b0b4-9549-4c26-92a5-84fb7415182b)
 
 Youtube Link: https://youtu.be/DgDKvcYSfPQ
 Also Watch Resurssion Fucntion YT Link: https://youtu.be/s3zu68-ANLs
